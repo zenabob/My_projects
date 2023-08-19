@@ -1,0 +1,148 @@
+{
+  "page.home.head.title": "אלמונתדא - החותם האקדמי הערבי",
+  "navbar.search":"חפוש",
+  "homepage.title_2":"לשיתוף פעולה, שיתוף ותמיכה",
+  "navbar.podcast": "פודקאסט",
+  "navbar.academic": "רשימה האקדמיים",
+  "navbar.contact": "צור קשר",
+  "homepage.joinus": " הצטרפו אלינו",
+  "homepage.title": "הפורום",
+  "homepage.title_1": "טביעת אצבע אקדמית ערבית",
+  "homepage.about": "על המיזם",
+  "homepage.description": "להעניק לאקדמאים אפשרות להקים רשת חברתית אקדמית ערבית ולחלוק מידע אקדמי.",
+  "homepage.about_2": " אנו מאמינים כי חינוך בכלל ואקדמי בפרט נחשבים לאחד האמצעים לצמצום פערי העוני.",
+  "homepage.description_2": " מחקרים מראים כי אחוז האקדמאים הערבים נמוך מאחוז האקדמאים היהודים בארץ. החברה הערבית מתמודדת עם אתגרים רבים הבאים המשתקפים בפערים חברתיים-כלכליים, הבאים לידי ביטוי גם במערכת החינוך בכלל ובאפשרויות התעסוקה בפרט. קריאת הפורום שלנו רוצה להצטרף לקולות המאבק בעוני. \t ",
+  "homepage.impact.sub.title": " אנו יוצרים את העתיד",
+  "homepage.impact.desc": "השפעתו וערכו המוסף של \"אלמונתדא\" מתבטאים באמצעות שיתוף פעולה הדדי ויצירת ערכים כלכליים ואינטקטואליים משותפים לקהילה של האקדמאים הערבים.",
+  "homepage.vision.sub.title": " החזון שלנו",
+  "homepage.vision.desc": "\" פלטפורמה אקדמית ערבית שנוצרה כדי להשאיר חותם חברתי בקרב החברה היזמית המקומית.\"",
+  "homepage.message.sub.title": " המסר שלנו",
+  "homepage.message.desc": " הפורום שואף לצמצם את הפערים החברתיים על ידי מתן פלטפורמה תומכת ומשתפת.",
+  "homepage.missfix.sub.title": " הערכה ותמיכה",
+  "homepage.missfix.desc": "בספטמבר 2022 התקיימה תחרות \" Miss Fix \" לשינוי חברתי מטעם \" שדלת נישים \"בחסות המרכז לבנקאות חברתית של בנק הפועלים. התחרות נוצרה מתוך של הצורך לתת מקום ליופי החברתי, ולנשים הפועלות בחברה על ידי קידום ערכי צדק חברתי, שוויון, קיימות, בריאות, טכנולוגיה וזכויות אדם, כדי לתת במה ליזמות בתחומים שונים ולבנות חברה המקדמת ומעוררת השראה לפעילות חברתית של נשים. 183 נשים השתתפו בתחרות עם מיזמים שונים מספר המצביעים לפרויקטים עלה על 70,000 בתחרות, מה שהוביל לבחירת 3 מיזמים, \"הפורום\" זכה במקום השני. בתמונה מייסדת ומנהלת הפרויקט, גב' אלא חסונה.",
+  "homepage.goals.title": " היעדים שלנו",
+  "homepage.goals": [
+    {
+      "desc": "ניהול ותפעול הפורום:\n\"אלמונתדא\" מהווה פלטפורמה חברתית לסטודנטים אקדמיים וכן לבוגרי אקדמיה מהחברה הערבית. הפלטפורמה גדלה ומתפתחת באופן רציף וזאת מכיוון שהיא פתוחה להרשמת חברים חדשים המעוניינים לקחת חלק בשיתוף ידע, הזדמניות עבודה ,שיתופי פעולה ועוד. \"\n"
+    },
+    {
+      "desc": "\" פודקאסט אקדמי \" השמע את קולך \":\nהפודקאסט יארח אנשי אקדמיה מקצועיים אשר יחלקו איתנו את חוויותיהם האקדמיות והמקצועיות. הפודקאסט נועד להעלות את המודעות בחברה הערבית לתחומים השונים הקיימים במוסדות להשכלה גבוהה, כמו גם במסלולי קריירה אפשריים. \" \n"
+    },
+    {
+      "desc": "שירותי מידע:\nפלטפורמת \"אלמונתדא\" תאפשר לחבריה לשתף מידע וידע הנוגעים בחייהם האקדמיים וכן במסלולי קריירה אפשריים.\"\n"
+    }
+  ],
+  "homepage.founder.title": " צוות הפרויקט",
+  "homepage.founders": [
+    {
+      "name": " חסן חסונה",
+      "desc": "בעל תואר ראשון ניהול מערכות מידע המכללה האקדמית תל אביב יפו",
+      "image": "https://res.cloudinary.com/djc1iyjjm/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686943427/IMG-20230616-WA0007_taz060.jpg?_s=public-apps"
+    },
+    {
+      "name": " אלא חסונה ",
+      "desc": "בעלת תואר ראשון כלכלה וניהול – האקדמית תל אביב יפו , רישיון משווק פנסיוני מטעם משרד האוצר, תואר שני מנהל עסקים אוניברסיטת בן גוריון , דוקטורנטית לניהול – אוניברסיטת בר אילן.",
+      "image": "https://res.cloudinary.com/djc1iyjjm/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686943427/IMG-20230616-WA0008_f67cb7.jpg?_s=public-apps"
+    }
+  ],
+  "homepage.cofounders.title": "חברי וועד",
+  "homepage.cofounders": [
+    {
+      "name": "הנאא עדסי",
+      "desc": "בעלת תואר ראשון ביולוגיה , תואר שני ביוכימיה ודוקטורנטית במדעי הביולוגיה וביוכימיה אוניברסיטת תל אביב.",
+      "image": "https://res.cloudinary.com/djc1iyjjm/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686943427/IMG-20230616-WA0006_mvjdw2.jpg?_s=public-apps"
+    },
+    {
+      "name": "אחמד חסונה",
+      "desc": "בעל תואר ראשון חינוך חברתי מכללת אור יהודה , , תואר שני במנהל וארגון מערכות חינוך פורמליות ובלתי פורמליות.  מכללת קריית אונו.",
+      "image": "https://res.cloudinary.com/djc1iyjjm/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686943427/IMG-20230616-WA0004_cm4v8g.jpg?_s=public-apps"
+    },
+    {
+      "name": "כיאן בסול",
+      "desc": "בעלת תואר ראשון ברוקחות מטעם האוניברסיטה העברית בירושלים. ותואר שני במשפטים מטעם אוניברסיטת בר-אילן.",
+      "image": "https://res.cloudinary.com/dieieuuby/image/upload/v1686944136/npkh6tma4heenzo5wu0x.jpg"
+    },
+    {
+      "name": "נהד אבו דין",
+      "desc": "סטודנטית לתואר ראשון בחינוך בלתי פורמלי, ובישול טיפולי, מומחית בלימודי תכנות נוירו-לשוני.",
+      "image": "https://res.cloudinary.com/dieieuuby/image/upload/v1686944231/nahedCo_pzqvvj.jpg"
+    },
+    {
+      "name": "ניקולס זכאכ",
+      "desc": "בעל תואר ראשון בסיעוד במכללה האקדמית תל אביב יפו ובוגר תואר ראשון במנהל מערכות בריאות במכללה האקדמית רמת גן.",
+      "image": "https://res.cloudinary.com/djc1iyjjm/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686943427/IMG-20230616-WA0005_e0y2ym.jpg?_s=public-apps"
+    },
+    {
+      "name": "ספא אבו סבית",
+      "desc": "בעלת תואר ראשון מאוניברסיטת בן גוריון בתחום הכימיה וסטודנטית לתואר שני במנהל עסקים.",
+      "image": "https://res.cloudinary.com/djc1iyjjm/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686943427/IMG-20230616-WA0003_dpl9qd.jpg?_s=public-apps"
+    }
+  ],
+  "academicpage.title": "רשימת האקדמאים הערבים",
+  "academicpage.text": "עוצמת התקשורת והתמיכה בינינו כחברה ערבית היא סוד השינוי החברתי לטובה, הצטרפו אלינו לרשימת האקדמאים הערבים מכל האזורים ברחבי הארץ ומהתחומים השונים.\n",
+  "academicpage.acdemics": " רשימת האקדמאים הערבים לפי מקום ומומחיות ",
+  "academicpage.acdemicsField":"לפי התמחות",
+  "academicpage.acdemics.Area":"לפי אזור",
+  "academicpage.dialog.title": "הרשמה",
+  "academicpage.dialog.sub.title": "נא למלא את המידע הבא בשפה האנגלית בלבד",
+  "academicpage.dialog.first.name": "שם פרטי",
+  "academicpage.dialog.Birhdate": "תאריך לידה",
+  "academicpage.dialog.upload": "להעלות תמונה",
+  "academicpage.dialog.close":"סגור",
+  "academicpage.dialog.last.name": "שם משפחה",
+  "academicpage.dialog.email": "דואר אלקטרוני",
+  "academicpage.dialog.age": "גיל",
+  "academicpage.dialog.imageurl": "בחר תמונת פרופיל",
+  "academicpage.dialog.city": "מיקום מגורים",
+  "academicpage.dialog.degree": "תואר",
+  "academicpage.dialog.subject": "התמחות",
+  "academicpage.dialog.job": "עבודה",
+  "academicpage.dialog.button": "הרשמה",
+  "academicpage.dialog.required": "שדה זה חובה",
+  "academicpage.dialog.sex": "מגדר",
+  "academicpage.dialog.company": "שם חברה",
+  "academicpage.dialog.phone": "מספר טלפון",
+  "academicpage.dialog.success": "ההרשמה בוצעה בהצלחה",
+  "academicpage.dialog.error": "שגיאה בהרשמה, נא לנסות שנית מאוחר יותר",
+  "academicpage.dialog.error.email": "כתובת הדואר האלקטרוני שהוזנה קיימת במערכת",
+  "academicpage.dialog.checkbox": "אני מאשר כי קראתי את מדיניות הפרטיות , כמו כן אני מאשר שהמידע שסיפקתי הוא אמין ומדויק, אני מסכים לשאת באחריות לפרסום מידע לא אמין, ואני מסכים להציג את תמונת הפרופיל שלי, שאין לה זכויות יוצרים כלשהן לפרסום באתר ובמאגר הפורום ערבי אקדמי ושותפיו\n",
+  "contactpage.title": "צור קשר",
+  "contactpage.text": "כדי ליצור איתנו קשר, אנא מלא את הטופס הבא",
+  "contactpage.submit": "שלח",
+  "contactpage.fullname": "שם מלא",
+  "contactpage.email": "דואר אלקטרוני",
+  "contactpage.message": "הודעה",
+  "contactpage.required": "שדה זה חובה",
+  "contactpage.dialog.title": "בקשתך להצטרפות נשלחה בהצלחה",
+  "contactpage.send.title": "הודעתך נשלחה בהצלחה",
+  "contactpage.subject": "נושא",
+  "contactpage.subjects": [
+    {
+      "label": "פרסום במגזין \"פורסה\" האקדמאי החודשי\""
+    },
+    {
+      "label": " בקשת להתארח בפודקאסט \"השמע את קולך\"."
+    },
+    {
+      "label": " שיתוף פעולה למעסיקים או מוסדות"
+    },
+    {
+      "label": " ייעוץ לבחירת תחום לימודים ומוסד אקדמי "
+    },
+    {
+      "label": " חיפוש סדנה או הדרכה "
+    },
+    {
+      "label": " אני מחפש עבודה "
+    },
+    {
+      "label": " אני מחפש מענק"
+    },
+    {
+      "label": " אחר"
+    }
+  ],
+  "podcastpage.desc": "פודקאסט \" השמע את קולך\", תוכנית אירוח ייחודית ואישית שמטרתה לחפש מומחים אקדמיים מהאוכלוסייה הערבית המעוניינים לחלוק את ניסיונם עם הקהילה שלהם ולדון בנושאים אקדמיים ומקצועיים .",
+  "podcastpage.subdesc": " מעוניינים להתארח אצלנו בפודקאסט . השאירו את הפרטים שלכם וניצור איתכם קשר לתיאום מועד.",
+  "footer.contactus": " צור קשר"
+}

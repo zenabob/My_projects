@@ -1,0 +1,111 @@
+class Game {
+    field int num_win;
+    field int num_games;
+    field String user_answer;
+    field Qs Q;
+    field Array q;
+    field Array a;
+    
+   
+    constructor Game new(Qs ques) {
+       let  user_answer = "";
+       let  num_games = 0;
+       let num_win = 0;
+       let Q = ques;
+      
+       let q=Q.getq();
+       let a=Q.geta();
+       return this;
+    }
+
+    method void dispose() {
+        do Memory.deAlloc(this);
+        return;
+    }
+
+    method void lets_start() {
+        var int inputint;
+        var int ans;
+        var int check;
+        var String the_q;
+        var String the_a;
+        var String key;
+      
+        var String set;
+        var char take;
+        var int len1;
+        var int len2;
+        var int i;
+        var boolean isEqual;
+
+        let check=Q.getnum();
+        do Output.println();
+        do Output.printString("lets start!!!");
+        
+     
+        while (num_games<check) {
+            
+          
+         
+            do Output.println();
+            let the_q=q[num_games];
+            let the_a =a[num_games];
+            
+            do Output.printString(the_q);
+            do Output.println();
+         
+      
+         
+         
+           
+            let key = Keyboard.readLine("Enter your answer :");
+              
+            do Output.println();
+            let len1 = key.length();
+            let len2 = the_a.length();
+            let isEqual=false;
+            if (len1= len2) {
+                 let isEqual = true;
+                 let i = 0;
+                 while (i < len1) {
+                    if (~(key.charAt(i) = the_a.charAt(i))) {
+                       let isEqual = false;
+                       let i=len1;
+              
+            }
+                  let i = i + 1;
+        }
+            }
+           
+            if (isEqual) {
+                
+              
+                do Output.printString("Correct!!");
+                do Output.println();
+                let num_win = num_win + 1;
+               
+            } else {
+                do Output.printString("Incorrect do not give up!!");
+                do Output.println();
+               
+             
+            }
+            
+            let num_games = num_games + 1;
+        }
+        return;
+    }
+
+    method void result() {
+       
+        do Output.println();
+        do Output.printString("The game is over!");
+        do Output.println();
+        do Output.printString("You answered correctly in: ");
+        do Output.printInt(num_win);
+        do Output.println();
+        do Output.printString("Out of the total: ");
+        do Output.printInt(num_games);
+        return;
+    }
+}
