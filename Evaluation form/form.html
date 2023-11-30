@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Node.js Server Side Validation</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="server.js"></script>
+</head>
+<body>
+
+    <div class="Evaluation">
+        <div class="form-body">
+
+            <form method="post" action="/register">
+                <div class="mb-3">
+                    <label for="firstName">First Name</label>
+                    <input type="text" name="firstName" class="form-control" required><br>
+                </div>
+                <div class="mb-3">
+                    <label for="lastName">Last Name</label>
+                    <input type="text" name="lastName" class="form-control" required><br>
+                </div>
+                <div class="mb-3">
+                    <label for="age">Age</label>
+                    <input type="text" name="age" class="form-control" required><br>
+                </div>
+                <div class="mb-3">
+                    <label for="city">city</label>
+                    <input type="text" name="city" class="form-control" required><br>
+                </div>
+                <div class="mb-3">
+                    <label for="courses">courses</label>
+                    <input list="courses" name="courses" class="form-control" required><br>
+                    <datalist id="courses">
+                        <option value="Software">Software</option>
+                        <option value="QA">QA</option>
+                        <option value="Cyber security">Cyber security</option>
+                        <option value="Full stack">Full stack</option>
+                    </datalist>
+                </div>
+                <div class="mb-3">
+                    <label for="message">Message</label><br>
+                    <textarea name="message" class="form-control"></textarea>
+                </div>
+                <button type="submit" class="send">Submit</button>
+            </form>
+
+        </div>
+    </div>
+
+</body>
+</html>
